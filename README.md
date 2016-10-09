@@ -1,15 +1,14 @@
 # Feature-based-classifiers---Somatic-Mutation-prediction
 
-Folders
-
+#Folders
 Preprocessing              - Contains files related to preprocessing of Cosmic data
 classifier                 - Has the classification code - SVM, Random Forest and Logistic Regression.
 
-Data:
+#Data:
 Combined_final_200.csv - Input to the models - classifier.py
 preliminary features   - Raw data from COSMIC 
 
-Files:
+#Files:
 Inferences_Appendix.docx        - Contains probability matrix inferences from the data.
 BLOSUM62                        - Blosum62 matrix that was used as a feature
 Blosum_from_data                - Probability matrix calculated from data
