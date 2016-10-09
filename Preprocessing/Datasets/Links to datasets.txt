@@ -1,0 +1,14 @@
+Links to datasets
+The data can be obtained from the following links. The password for all the files is 'datamining'.
+
+1. The Somatic Mutations
+https://www.slashtmp.iu.edu/files/download?FILE=arbhagwa%2F87505w9sH8Q
+
+2. Mutations from Cosmic
+https://www.slashtmp.iu.edu/files/download?FILE=arbhagwa%2F93358uowuo2
+
+3. All genes from Cosmic
+https://www.slashtmp.iu.edu/files/download?FILE=arbhagwa%2F81871PbCOdC
+
+4. Genes converted into protein sequences
+https://www.slashtmp.iu.edu/files/download?FILE=arbhagwa%2F21350Z5EP0R
